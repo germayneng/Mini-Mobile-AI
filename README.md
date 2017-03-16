@@ -7,3 +7,5 @@ A shiny based AI that takes speech input and perform various functions
 https://germayneng.shinyapps.io/mini-ai-test/
 
 
+*commands*
+Say **rusty**  
