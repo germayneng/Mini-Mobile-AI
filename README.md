@@ -6,6 +6,13 @@ A shiny based AI that takes speech input and perform various functions
 *Demo*:
 https://germayneng.shinyapps.io/mini-ai-test/
 
+*How to use*
+Say **rusty** - commands 
 
-*commands*
-Say **rusty**  
+*Commands*
+
+1) hello 
+2) what is the best food in singapore?
+3) what is the weather today?
+4) what is the weather tomorrow?
+
