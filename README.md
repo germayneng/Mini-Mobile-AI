@@ -19,3 +19,4 @@ Say **rusty** - commands
 3) what is the weather today?
 4) what is the weather tomorrow?
 
+5) anything under the sun- celebrities, personnels, locations, countries. Rusty will perform a google query.
