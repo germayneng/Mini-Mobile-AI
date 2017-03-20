@@ -6,7 +6,7 @@ Try it in your Android chrome browser!
 
 *Demo*:
 <br>
-https://germayneng.shinyapps.io/mini-ai-test/
+https://germayneng.shinyapps.io/
 
 *How to use*
 <br>
