@@ -4,11 +4,13 @@ A shiny based AI that takes speech input and perform various functions. This Ai 
 Try it in your Android chrome browser! 
 
 
-#*Demo*:
+# *Demo*:
 <br>
 Removed due to my watson API calls being limited. 
 
-#*How to use*
+# *How to use*
+<br>
+Get your IBM watson API key from bluemix and Wunderground weather API key from their website. Then enter it into the shiny app.R
 <br>
 Say **rusty** - commands to speak to the app. Alternatively, you can type in the text box. 
 <br>
@@ -16,7 +18,7 @@ The button play will output Rusty's answer (text to speech)
 <br>
 However, note that text to speech only works for command 1-4. If you use text to speech on Google query, app will crash. Simply refresh. 
 
-#*Commands*
+# *Commands*
 
 1) hello 
 2) what is the best food in singapore?
@@ -26,10 +28,10 @@ However, note that text to speech only works for command 1-4. If you use text to
 5) anything under the sun- celebrities, personnels, locations, countries. Rusty will perform a google query.
 
 
-#Bugs 
+# Bugs 
 <br>
 Google query not string, as a result, Watson cannot convert it using text to speech API. 
 
-#Credits
+# Credits
 <br>
 CognizeR, XD, Robert from stackoverflow 
