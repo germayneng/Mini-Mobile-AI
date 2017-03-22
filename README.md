@@ -1,7 +1,7 @@
 # Mini-Mobile-AI
 A shiny based AI that takes speech input and perform various functions. This Ai takes a form of rusty the dog. (Based on my actual dog's name) Combining Annyang js (for speech to text), Watson API (for text to speech) and Wunderground Weather API.  
 <br>
-Try it in your Android chrome browser! 
+Try it in your Android chrome browser! ( no speech to text in mobile ) 
 
 
 # *Demo*:
@@ -29,8 +29,9 @@ However, note that text to speech only works for command 1-4. If you use text to
 
 
 # Bugs 
-<br>
-Google query not string, as a result, Watson cannot convert it using text to speech API. 
+
+1) Google query not string, as a result, Watson cannot convert it using text to speech API. 
+2) When using in mobile browser, Watson API not working
 
 # Credits
 <br>
